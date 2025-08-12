@@ -1,9 +1,9 @@
-Sistema de Pagamento Simplificado : PicPay
+## Sistema de Pagamento Simplificado : PicPay
 
 Sistema de transferências financeiras desenvolvido em Spring Boot que permite transações entre usuários comuns 
 e lojistas, com validação externa e sistema de notificações.
 
-Funcionalidades
+## Funcionalidades
 
 - Cadastro de Usuários: Usuários comuns e lojistas
 - Transferências Seguras: Validação de saldo e autorização externa
@@ -11,7 +11,7 @@ Funcionalidades
 - Notificações: Envio de notificações via serviços externos
 - Validações de Negócio: CPF/CNPJ únicos, regras de transferência
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Java
 Spring Boot
